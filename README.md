@@ -1,3 +1,3 @@
 # 1
 # test
-print(" Amerika Yaa ")
+print("Amerika Yaa")
